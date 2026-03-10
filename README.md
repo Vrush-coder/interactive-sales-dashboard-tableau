@@ -1,7 +1,5 @@
 # 📊 Interactive Sales Dashboard (Tableau)
 
-![Dashboard Preview](Dashboard.png)
-
 ## 📌 Project Overview
 
 The **Interactive Sales Dashboard** is a data visualization project built using **Tableau** to analyze retail sales performance. The dashboard transforms raw sales data into meaningful insights that help understand business trends, customer behavior, and product performance.
